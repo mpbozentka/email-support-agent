@@ -1,0 +1,16 @@
+# Nested repos — tracked separately
+n8n-mcp/
+n8n-skills/
+
+# macOS
+.DS_Store
+
+# env files
+.env
+.env.*
+
+# MCP config — contains API keys
+.mcp.json
+
+# Claude local config
+.claude/
